@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#output_folder / chackpoint jupyter
+output/
+.ipynb_checkpoints/
+
 # C extensions
 *.so
 
